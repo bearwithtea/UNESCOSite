@@ -11,4 +11,10 @@ body {
     color: #000000;
 }
 
-#map { height: 180px; }
+#map {
+    position: absolute;
+    top: 100px; /* adjust as needed */
+    left: 50px; /* adjust as needed */
+    width: 900px; /* adjust as needed */
+    height: 800px; /* adjust as needed */
+}
